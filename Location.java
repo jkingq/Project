@@ -1,4 +1,5 @@
 package main;
+// test comment
 
 /**
  * The location in the warehouse of an item
